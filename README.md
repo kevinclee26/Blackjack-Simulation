@@ -6,6 +6,9 @@
 - Push 9%  of the time
 - Dealer wins 49%  of the time
 
+### Here are the chances of winning per hand: 
+![Image](https://github.com/kevinclee26/Blackjack-Simulation/blob/master/image_2.png)
+
 ### Below are some interesting findings: 
 -  On average: 
     -  a Player is dealt 20 ~10% of the time, roughly the same as getting a 12 or 13. 20 has ~70% chance of winning and is the best hand to be dealt besides a Blackjack, which shows up ~5% of the time. 
